@@ -24,4 +24,4 @@ app.use(cors());
 app.use(express.json());
 app.use(routes);
 
-server.listen(3001, () => console.log('🔥 Server Started at localhost:3001 🔥'));
+server.listen(3001, () => console.log('🔥🔥 Server Started at localhost:3001 🔥🔥'));
